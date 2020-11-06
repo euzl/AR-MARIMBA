@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="bow_kangol" size="3.000000 4.848000" />
+    <ImageTarget name="target_indo" size="4.000000 5.980519" />
     <ImageTarget name="target_pooh" size="4.000000 5.496266" />
     <ImageTarget name="target_minion" size="4.000000 5.825185" />
   </Tracking>

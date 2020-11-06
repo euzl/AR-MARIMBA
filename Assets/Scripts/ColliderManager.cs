@@ -15,16 +15,15 @@ public class ColliderManager : MonoBehaviour
     }       
     void OnTriggerEnter(Collider other)     
     {        
-        if (other is BoxCollider)        
+        if (other is SphereCollider)        
         {           
             // fireFront.Play(true);
-            Debug.Log("Collider ! with -> " + other.name);
             sound.Play();        
-        }        
-        else if (other is SphereCollider)        
-        {         
-            // fireBack.Play(true);   
-        }    
+            Debug.Log("[Tap] Sound -> " + other.name);  
+        }
+        else if (other is MeshCollider)
+        {
+        }     
     }     
     void OnTriggerExit(Collider other)  
     {   

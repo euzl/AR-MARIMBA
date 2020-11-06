@@ -17,8 +17,8 @@ MonoBehaviour:
     ufoLicenseKey: QWJJazd4ci8vLy8vQUFBQUtONEFNbDhIbjB5cm9vVDJNMFIyRkl0ODhOaU43RFkwVnFibEk2UWlkMm5LNkRBU0p1OXVpeUZhbFhNVVhObWI0TVYxWXNEaEE1N3FYdjJZVEdjWnQrUFFOdDZUcEkrUjJkQ3k1V3ZiSysvdG85cjh6OHZBQXdmQUlqdWNqMDIzbGxtSVFjb3poRDdiampEcVYvRHNDNDZNbWtURnVMOU1FbEtMLzBFNzRYSkZ0RmRwQ29lNGxwOUZabXhmbHJyTHFDL3BYOGd3UUFtYTNOL0dML2tTaEw5VEs3TEpZRDc3bFZzVlV4M1JtYlR5Qmo5NFlXWGsrUTl4YkY5Nm0rcFlFYXhGOThZUTI0cW1zVUthemRrWnZCSjU2TUNCU3QxT1hkTk8yS3lhMEd1emhUSzhETCtVU25YN0JGN0pDNVJXcjFaL3ZzY21iUmxDeWVEV3lRenBmdkE1dlRtZ08wKzFyV1E1ek9SVVB3ejI=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 2
-    maxSimultaneousObjectTargets: 2
+    maxSimultaneousImageTargets: 4
+    maxSimultaneousObjectTargets: 4
     useDelayedLoadingObjectTargets: 0
     version: 8.1.12
     eulaAcceptedVersions: '{"Values":["0.0","9.5","8.1"]}'
