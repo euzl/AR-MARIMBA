@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sol" size="4.000000 16.121952" />
+    <ImageTarget name="fa" size="4.000000 13.951220" />
+    <ImageTarget name="mi" size="4.000000 11.243902" />
+    <ImageTarget name="re" size="4.000000 8.412121" />
+    <ImageTarget name="do" size="4.000000 6.365854" />
+  </Tracking>
+</QCARConfig>
