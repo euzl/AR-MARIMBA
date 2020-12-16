@@ -26,4 +26,10 @@ public class SceneChange : MonoBehaviour
     {
         SceneManager.LoadScene("PlayScene");
     }
+
+    public void ExitApplication()
+    {
+        Application.Quit();
+        Debug.Log("Exit Application");
+    }
 }
