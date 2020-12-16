@@ -10,8 +10,10 @@
           <e p="Bow.cs" t="Include" />
           <e p="ColliderManager.cs" t="Include" />
           <e p="CubeSound.cs" t="Include" />
+          <e p="ForceStart.cs" t="Include" />
           <e p="GuideScript.cs" t="Include" />
           <e p="MultiVirtualButton.cs" t="Include" />
+          <e p="SceneChange.cs" t="Include" />
           <e p="Target.cs" t="Include" />
           <e p="VirtualButton.cs" t="Include" />
         </e>
