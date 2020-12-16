@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_cd2.-1872125479.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Bow.cs" t="Include" />
+          <e p="ColliderManager.cs" t="Include" />
+          <e p="CubeSound.cs" t="Include" />
+          <e p="MultiVirtualButton.cs" t="Include" />
+          <e p="Target.cs" t="Include" />
+          <e p="VirtualButton.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="cd2.xml" t="Include" />
+            <e p="paper.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Vbtest.cs" t="Include" />
+      </e>
+      <e p="cd2.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
