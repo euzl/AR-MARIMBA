@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a8ce9f8-69db-4e5a-be9b-e3cfc7beda1d" name="Default Changelist" comment="" />
+    <list default="true" id="6a8ce9f8-69db-4e5a-be9b-e3cfc7beda1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/PlayScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/PlayScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeSound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeSound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MultiVirtualButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MultiVirtualButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Target.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Target.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,19 +29,24 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GuideScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForceStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeSound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiVirtualButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VbtnDo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A8F42ED7-3745-4A12-91EB-F285F10D6EEE/2b/c2100b32/IVirtualButtonEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/MultiVirtualButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CubeSound.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GuideScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ForceStart.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/StarDo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VbtnDo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VbtnSol.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VbtnRe.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VbtnMi.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/VbtnFa.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ljuMXETbyrhDdCCINEOn6RiXYs" />
@@ -45,6 +66,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -76,6 +98,11 @@
       <option name="presentableId" value="Default" />
       <updated>1608122779355</updated>
       <workItem from="1608122780051" duration="6652000" />
+      <workItem from="1608163798163" duration="48000" />
+      <workItem from="1608163875208" duration="173000" />
+      <workItem from="1608164290448" duration="41000" />
+      <workItem from="1608164389531" duration="2863000" />
+      <workItem from="1608169494943" duration="2222000" />
     </task>
     <servers />
   </component>
@@ -94,6 +121,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

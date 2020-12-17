@@ -6,16 +6,23 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AurynSky" t="Include">
+          <e p="Gems Ultimate Pack" t="Include">
+            <e p="READ ME.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AnimationScript.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
-          <e p="Bow.cs" t="Include" />
-          <e p="ColliderManager.cs" t="Include" />
-          <e p="CubeSound.cs" t="Include" />
           <e p="ForceStart.cs" t="Include" />
           <e p="GuideScript.cs" t="Include" />
-          <e p="MultiVirtualButton.cs" t="Include" />
           <e p="SceneChange.cs" t="Include" />
-          <e p="Target.cs" t="Include" />
-          <e p="VirtualButton.cs" t="Include" />
+          <e p="VbtnDo.cs" t="Include" />
+          <e p="VbtnFa.cs" t="Include" />
+          <e p="VbtnMi.cs" t="Include" />
+          <e p="VbtnRe.cs" t="Include" />
+          <e p="VbtnSol.cs" t="Include" />
         </e>
         <e p="StreamingAssets" t="Include">
           <e p="Vuforia" t="Include">
