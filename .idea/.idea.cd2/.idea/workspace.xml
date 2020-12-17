@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8ce9f8-69db-4e5a-be9b-e3cfc7beda1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cd2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/PlayScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/PlayScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColliderManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeSound.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeSound.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MultiVirtualButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MultiVirtualButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Target.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Target.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ForceStart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ForceStart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scene_test.aab" beforeDir="false" afterPath="$PROJECT_DIR$/scene_test.aab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +26,6 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/CubeSound.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GuideScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/ForceStart.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/VirtualButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/StarDo.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/VbtnDo.cs" />
@@ -47,6 +33,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/VbtnRe.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/VbtnMi.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/VbtnFa.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ForceStart.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ljuMXETbyrhDdCCINEOn6RiXYs" />
@@ -102,7 +89,7 @@
       <workItem from="1608163875208" duration="173000" />
       <workItem from="1608164290448" duration="41000" />
       <workItem from="1608164389531" duration="2863000" />
-      <workItem from="1608169494943" duration="2222000" />
+      <workItem from="1608169494943" duration="2468000" />
     </task>
     <servers />
   </component>
