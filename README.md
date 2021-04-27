@@ -1,14 +1,24 @@
 
-![Unity](https://img.shields.io/badge/Unity-2019.4.13f1-blue) ![Vuforia](https://img.shields.io/badge/Vuforia-8.1.12-green) ![C#](https://img.shields.io/badge/C%23-Rider-orange)
+
 # AR-MARIMBA
 증강현실기반 마림바 유사악기 (Augmented Reality based Marimba like Instrument)
-> 마림바는 아닌데 마림바처럼 두드리면 소리가 나는 가상악기. 그런데 음원은 피아노임. 마림바소리 구해여~
+<br><br>
 
 ## Screen Shot
 |시작화면|안내문|재생모습|
 |--|--|--|
 |![image](https://user-images.githubusercontent.com/37680108/102649100-f45ed200-41ab-11eb-8f19-345845d987e3.png)|![image](https://user-images.githubusercontent.com/37680108/102649011-d6916d00-41ab-11eb-8b95-ad31b81287b4.png)|![image](https://user-images.githubusercontent.com/37680108/102649034-dc874e00-41ab-11eb-878f-7e3fec95b6b6.png)|
+<br><br>
 
+## Description
+![Unity](https://img.shields.io/badge/Unity-2019.4.13f1-blue) ![Vuforia](https://img.shields.io/badge/Vuforia-8.1.12-green) ![C#](https://img.shields.io/badge/C%23-Rider-orange)
+
+![image](https://user-images.githubusercontent.com/37680108/116304556-a69f4980-a7dd-11eb-97f2-a58446f1a67e.png)
+_Flow Chart_
+
+`Virtual Button`, `3D text`, `Particle System`, `Rotating Animation`, `Change Scene`
+
+<br><br>
 
 ## Directory hierarchy 
 ```bash
